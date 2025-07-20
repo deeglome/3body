@@ -1,2 +1,2 @@
 # 3body
-A physical simulator to solve the three-body problem.
+A physics simulator to solve the three-body problem.
